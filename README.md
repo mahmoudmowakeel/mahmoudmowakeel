@@ -1,5 +1,11 @@
 # 💫 About Me:
-👨‍💻 I'm Mahmoud El-Wakeel, I'm A Frontend Developer (React.Js)<br>🚀 As a junior frontend developer, I am proficient in HTML, CSS, and JavaScript, with additional expertise in frameworks such as React.<br>🎨 I am well-versed in modern frontend development tools and libraries like Tailwind CSS and Bootstrap, enabling me to create responsive and visually appealing user interfaces efficiently.<br>🛠️ Additionally, I have experience with technologies like React Query, Redux and TypeScript, allowing me to build robust and scalable web applications.<br>✨ My passion for frontend development drives me to stay updated with the latest trends and continuously improve my skills to deliver high-quality solutions.
+🏢 I’m Mahmoud El-Wakeel, currently working as a Software Engineer at Huawei.
+👨‍💻 I'm a Frontend Developer specializing in React.js.
+🚀 As a junior frontend developer, I’m proficient in HTML, CSS, and JavaScript, with additional expertise in frameworks like React.
+🎨 I’m well-versed in modern frontend tools and libraries such as Tailwind CSS and Bootstrap, enabling me to create responsive and visually appealing user interfaces efficiently.
+🛠️ I also have experience with technologies like React Query, Redux, and TypeScript, which help me build robust and scalable web applications.
+🌐 I’m currently mastering Next.js, enhancing my ability to build full-stack and server-side rendered apps.
+✨ My passion for frontend development drives me to stay updated with the latest trends and continuously improve my skills to deliver high-quality solutions.
 
 
 ## 🌐 Socials:
