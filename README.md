@@ -1,11 +1,10 @@
 # 💫 About Me:
 🏢 I’m Mahmoud El-Wakeel, currently working as a Software Engineer at Huawei.
-👨‍💻 I'm a Frontend Developer specializing in React.js.
-🚀 I’m proficient in HTML, CSS, and JavaScript, with additional expertise in frameworks like React.
-🎨 I’m well-versed in modern frontend tools and libraries such as Tailwind CSS and Bootstrap, enabling me to create responsive and visually appealing user interfaces efficiently.
-🛠️ I also have experience with technologies like React Query, Redux, and TypeScript, which help me build robust and scalable web applications.
-🌐 I’m currently mastering Next.js, enhancing my ability to build full-stack and server-side rendered apps.
-✨ My passion for frontend development drives me to stay updated with the latest trends and continuously improve my skills to deliver high-quality solutions.
+Frontend Software Engineer with experience in React.js,Vue.js, Next.js, and Angular, specializing in SPA
+development, component-based architecture, and performance optimization. Professional experience at
+Huawei Technologies delivering telecom-grade applications using Vue.JS, JavaScript,Java, SQL, and Python.
+Strong understanding of REST APIs, databases, Agile workflows, and cross-team collaboration. Adept at
+building responsive, scalable, and maintainable web solutions.
 
 
 ## 🌐 Socials:
