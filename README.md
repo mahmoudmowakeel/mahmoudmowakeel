@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢 I’m Mahmoud El-Wakeel, currently working as a Midlevel Frontend Engineer at Erada Finance.
+🏢 I’m Mahmoud El-Wakeel, currently working as a Mid-level Frontend Engineer at Erada Finance.
 Frontend Engineer with experience in React.js,Vue.js, Next.js, and Angular, specializing in SPA
 development, component-based architecture, and performance optimization. Professional experience at
 Huawei Technologies delivering telecom-grade applications using Vue.JS, JavaScript,Java, SQL, and Python.
